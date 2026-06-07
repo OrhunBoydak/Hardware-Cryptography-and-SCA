@@ -1,0 +1,41 @@
+# Compiled Object files
+*.o
+*-obj93.cf
+*.cf
+
+# Binaries and executables
+tb_shrinking
+point_add_tb
+mod_exp_tb
+mon_pro_tb
+tb_rsa_sca
+tb_rsa_sca_32bit
+
+# Simulation waveforms (Large files)
+*.vcd
+
+# Videos (Allowed)
+# *.MOV
+# *.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary Office Files
+~$*.pptx
+~$*.docx
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Agent/IDE directories
+.agent/
+.vscode/
+.gemini/
